@@ -1053,9 +1053,9 @@ menu.playbtn.onclick = async () => {
     game.root.style.display =
         "block";
 
-    musicas.pmpc.loop = true
-    musicas.pmpc.volume = 0.5
-    musicas.pmpc.play()
+    musicas.sm.loop = true
+    musicas.sm.volume = 0.5
+    musicas.sm.play()
 
 
     try {
