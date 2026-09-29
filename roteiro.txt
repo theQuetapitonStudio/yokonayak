@@ -1,0 +1,178 @@
+Você levanta da sua cama as 6:15 da manhã.
+Lokanyk: "Despertador inutil"
+Lokanyk olha para a fechadura matematica na porta.
+Lokanyk: "Por que meus pais colocaram isso afinal?"
+[MECANICA matematica]
+[MECANICA matematica]
+[MECANICA matematica]
+[MECANICA matematica]
+Finalmente a porta abre.
+Gokno: "Seu café da manhã esta pronto filho"
+Lokanyk vai pra mesa da cozinha.
+Lokanyk: "Eu não gosto de café pai"
+Gokno: "Homem de verdade SEMPRE toma café"
+Lokanyk: "*Suspiro*"
+Lokanyk toma o café da manhã, a cada gole de café era um quase vomito de Lokanyk.
+(11:30)
+Lokanyk: "Estou indo pra escola pai"
+Gokno: "Ta bom filho"
+Lokanyk caminha até a escola.
+(12:05)
+Hanamara: "(choros)"
+Lokanyk: "Vai chorar é?"
+Hanamara: "Por... que?"
+[MECANICA matematica]
+[MECANICA matematica]
+[MECANICA matematica]
+[MECANICA matematica]
+[MECANICA matematica]
+Hanamara se esvai em poeira.
+Kony: "Você sabe de onde que veio essa poeira?"
+Lokanyk: "Acho que foi o vento."
+(12:25)
+Professora Vakny: "Então, hoje iremos aprender como conjugar o verbo 'adiar'."
+Lokanyk: "Não."
+Vakny: "Você vai sim Lokanyk, você está com uma nota muito ruim em língua portuguesa."
+Lokanyk: "Não, eu NÃO VOU VAKNY SUA IDIOTA, RIDICULA, IMPRE-"
+Vakny: "Você quer que eu chame a diretoria Lokanyk? E quer que eu fale sobre SUAS NOTAS BAIXAS PARA A TURMA?"
+Snoak: "Professora, ele vive me zoando e copiando minha prova."
+Vakny: "Então eu irei chamar a diretoria."
+Lokanyk: "Morra."
+[MECANICA matematica]
+[MECANICA matematica]
+[MECANICA matematica]
+[MECANICA matematica]
+A Vakny se esvai em poeira.
+Snoak: "Por que será que estamos na sala ainda?"
+O alarme do recreio apita.
+Lokanyk caminha até o refeitório.
+Lokanyk olha pro cardápio e tenta escolher o lanche pra comer.
+[A] Pão, suco de Goror, e banana
+[B] Pão, suco de maçã, e uvas
+[C] Pão, suco de uva, e pizza
+if (a){
+    Lokanyk: "Suco de Goror não é coisa de homem, muito menos banana"
+}
+if (b) {
+    Lokanyk: "Uva parece que é rosa"
+}
+if (c) {
+    Lokanyk: "Eu amo pizza"
+}
+Lokanyk pega a pizza, e se dirige á mesa
+Lokanyk come o lanche e vai pra o corredor.
+Lokanyk encontra a Kony.
+Kony: "Lokanyk, você também esta sentindo uma sensação estranha?"
+[A] "Como assim Kony?"
+[B] "Eu mato pessoas e transformo em poeira"
+[C] "Você esta morta em minhas mãos"
+if (a) {
+    (correto)
+}
+if (b) {
+    Espekten: "Não fale isso, vai dar errado"
+}
+if (c) {
+    Espekten: "Não fale isso, vai dar errado"
+}
+Lokanyk: "Como assim Kony?"
+Kony: "Tipo, uma sensação que algo esta errado, que existe uma ponta em uma curva de uma forma geométrica."
+Kony: "Uma carne em um lanche que deveria ser vegetariano, uma morte de um ser imortal."
+Kony: "Deus seguindo Diabo, você entendeu."
+[A] "As vezes eu também sinto, normalmente quando estou doente, você esta com dor de cabeça?"
+[B] "Você morta é o indicio"
+[C] "Se descobrir algo, eu te mato"
+[D] "Eu crio a poeira da sua alma"
+if (a){
+    Lokanyk: "As vezes eu também sinto, normalmente quando estou doente, você esta com dor de cabeça?"
+    (correto)
+}
+if (b&c&d){
+    Espekten: "Não fale isso, vai dar errado"
+}
+Lokanyk: "As vezes eu também sinto, normalmente quando estou doente, você esta com dor de cabeça?"
+Kony: "Não sei, acho que é algo na minha cabeça, eu penso que eu tenho que lembrar de algo mas eu não consigo."
+Lokanyk hipnotiza Kony usando triangulos na mente.
+[MECANICA matematica]
+Lokanyk: "Você não tem que lembrar de nada."
+[MECANICA matematica]
+Hipnotização para.
+Kony: "Acho que essa sensação sumiu, deve ter sido só um erro na minha mente."
+Lokanyk sente um choro na sala de teatro.
+[A] Explorar a sala de teatro
+[B] Explorar mais o corredor
+if (a) {
+    Espekten: "Não esta no momento de fazer isso"
+}
+if (b) {
+    Lokanyk escuta uma conversa no corredor.
+}
+Quetapiton: "Eu sei o que Lokanyk esta tramando, ele não ira acabar comigo tãoooo facilmente."
+Okopury: "Aquele otário, ele matou a Hanamara, eu poderia fazer o que quiser, mas eu sei que ele está nos ouvindo."
+Quetapiton: "Mas nós 2 não iremos morrer tão cedo."
+[A] "Vocês querem virar poeira agora, ou daqui 1+(25+25)+6 segundos?"
+[B] Ignorar
+[C] Transformar em poeira
+if (b&&c) {
+    Você sente uma onda fria e calma pedindo para não fazer isso.
+    Você sente uma onda quente e agitada pedindo para fazer.
+    Lokanyk pensa que é bom ir direto ao ponto e seguir a onda fria.
+}
+if (a) {
+    (correto)
+}
+Lokanyk: "Vocês querem virar poeira agora, ou daqui 1+(25+25)+6 segundos?"
+Quetapiton: "Tente a sorte."
+Okopury: "Nós não somos igual Hanamara, ela esta em nosso universo, Soktenen ira cuidar bem dela por enquanto."
+Lokanyk: "Morra."
+Lokanyk começa a hipnotizar os 2 com triangulos.
+[MECANICA matematica]
+Quetapiton: "Errado."
+Lokanyk: "Mas... o calculo esta correto."
+Quetapiton: "Eu falei que você não vai conseguir, e mesmo se passar dessa parte."
+Lokanyk começa a flutuar.
+Quetapiton: "Não tem como desmaterializar algo que não é material."
+Quetapiton chega no ouvido de Lokanyk.
+Quetapiton: "(Eu sempre estou te observando)"
+Lokanyk cai e abre um portal no chão.
+Quetapiton e Okopury somem.
+Lokanyk cai num vazio, sentindo pelos de coelhos aos poucos.
+Espekten: "Soktenen... seu filho da puta."
+Aquela voz parecia com a onda quente e agitada.
+Espekten: "Ei Lokanyk, irei te mandar de volta, não escute a onda fria, ninguem irá lembrar desse momento."
+Espekten: "Ao menos eles, ELES NÃO SÃO MANIPULAVEIS POR MIM."
+Lokanyk volta para a escola e olha os armários.
+[A] Observar armário da esquerda
+[B] Observar armário do meio
+[C] Observar armário da direita
+if (qualquer){
+    Lokanyk: "Vazio, e com nenhum nome"
+}
+Lokanyk: "Eles erão mesmo alunos? eles não estavam com nome nos armarios, muito menos com mochila"
+Lokanyk decide investigar a sala de teatro
+Ao ver a cena, Lokanyk automaticamente ri
+Snoak: "(Choros)"
+Lokanyk: "Você ai , tão fragil, o bebezinho da mamae"
+Lokanyk começa a hipnotizar snoak
+[MECANICA matematica]
+[MECANICA matematica]
+[MECANICA matematica]
+[MECANICA matematica]
+[MECANICA matematica]
+Snoak se esvai em poeira
+Lokanyk continua andando pelo corredor, e encontra mais alguem
+Okopury: "O seu destino ainda não acabou...."
+Okopury teletransporta para baixo do chão
+E deixa uma carta
+"Cenoura"
+Lokanyk vai para a sala de teatro
+[A] Ler papel
+[B] Voltar
+if (a) {(correto)}
+if (b) {
+    Você sente uma onda fria pedindo para ler, você automaticamente vai até a fria
+}
+"Peixe"
+Lokanyk sente choros do corredor.
+Hoknoy: "(choros)"
+Lokanyk: "Vai chorar é?"
